@@ -1,0 +1,4 @@
+banco de dados com nome restaurante_bd
+
+tabela usuario
+nome, email, senha, data_registro, data_alteracao, situacao
